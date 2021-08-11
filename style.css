@@ -1,0 +1,38 @@
+.heading
+  {
+    font-size:30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(101, 245, 173);
+  }
+  .heading_div
+  {
+    font-size:20px;
+    background: white ; 
+    border-radius: 20px; 
+    color: rgb(181, 243, 123);
+    box-shadow:5px 5px 5px rgb(7, 216, 129);
+    float:none;
+    padding: 10px;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    padding: 10px;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px rgb(131, 231, 184);
+    font-size: 20px;
+  }
+ 
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+   canvas{
+     border: 5px dashed rgb(25, 231, 94) ;
+     border-radius: 8px;
+     box-shadow:5px 5px 5px rgb(9, 240, 163);
+     margin-top: 195px;
+   }
